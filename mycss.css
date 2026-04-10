@@ -26,8 +26,28 @@ body {
   color: blue;
 }
 
-#MagdalenaR {
-  background-color: initial;
-  font-family: initial;
-  color: initial;
+#Majdule {
+
+  background-color: #3a3a3a;
+  font-family: "Courier New", monospace;
+  color: #f0f0f0;
+  text-align: center;
+  padding: 2rem;
+  border-radius: 8px;
+
+}
+
+#Majdule img {
+
+  width: 150px;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+
+}
+
+#Majdule p {
+
+  font-style: italic;
+
 }
